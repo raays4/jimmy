@@ -1,2 +1,3 @@
 # jimmy
-i love maths
+i love maths and integration 
+
