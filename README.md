@@ -1,0 +1,2 @@
+# jimmy
+i love maths
